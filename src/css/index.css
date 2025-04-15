@@ -1,0 +1,142 @@
+*{
+   text-transform: capitalize;
+}
+.footer001{
+    background-color: gray;
+ }
+.consulting-col-page{
+   background-color: rgb(212, 212, 212);
+}
+.upload_class{
+   background-color: rgb(206, 206, 206);
+   border: 1px dashed rgb(147, 147, 147);
+   border-radius: 5px;
+   padding: 10px;
+}
+.bg-image{
+   background-image: url("../assets/bg-index.png");
+   background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+}
+.efs-1{
+   font-size: 40px;
+   padding: 10px;
+}
+.epx-5{
+   padding: 5px 120px;
+}
+
+.img1{
+   background-image: url("../assets/1of4.png");
+   background-repeat: no-repeat;
+   background-attachment: scroll;
+   background-position: center;
+   background-size: cover;
+    
+}
+.img2{
+   background-image: url("../assets/first-img-index.png");
+   background-repeat: no-repeat;
+   background-attachment: scroll;
+   background-position: center;
+   background-size: cover;
+    
+}
+.img3{
+   background-image: url("../assets/3of4.png");
+   background-repeat: no-repeat;
+   background-attachment: scroll;
+   background-position: center;
+   background-size: cover;
+    
+}
+.img4{
+   background-image: url("../assets/40f4.png");
+   background-repeat: no-repeat;
+   background-attachment: scroll;
+   background-position: center;
+   background-size: cover;
+    
+}
+.edited-margin{
+   margin-top: 200px !important;
+}
+.newarrow{
+   margin-top: 300px !important;
+}
+.down_banner{
+   background-image: url("../assets/index-banner.png");
+   background-repeat: no-repeat;
+   background-attachment: scroll;
+   background-position: center;
+   background-size: cover;
+   height: 400px;
+}
+.edited_margin{
+   padding-top: 170px;
+}
+.edited_margin2{
+   padding-top: 250px;  
+}
+.ed_padding{
+   padding-top: 120px;  /* ---- */
+}
+ul{
+   list-style-type: none;
+}
+.muted{
+   background-color: rgb(233, 233, 233);
+}
+.muted2{
+   background-color: rgb(248, 248, 248);
+}
+.list {
+   list-style-image: url("../assets/Vector.png");
+}
+
+.general-banner{
+   background-image: url("../assets/general_banner.png");
+   background-repeat: no-repeat;
+   background-attachment: scroll;
+   background-position: center;
+   background-size: cover;
+   height: 400px;
+}
+.general-banner2{
+   background-image: url("../assets/job-banner.png");
+   background-repeat: no-repeat;
+   background-attachment: scroll;
+   background-position: center;
+   background-size: cover;
+   height: 400px;
+}
+.general-banner3{
+   background-image: url("../assets/News-banner.png");
+   background-repeat: no-repeat;
+   background-attachment: scroll;
+   background-position: center;
+   background-size: cover;
+   height: 400px;
+}
+.general-banner4{
+   background-image: url("../assets/who_bg.png");
+   background-repeat: no-repeat;
+   background-attachment: scroll;
+   background-position: center;
+   background-size: cover;
+   height: 450px;
+}
+.general-banner5{
+   background-image: url("../assets/who_down.png");
+   background-repeat: no-repeat;
+   background-attachment: scroll;
+   background-position: center;
+   background-size: cover;
+   height: 400px;
+}
+.arrow__spp{
+   margin-top: 100px;
+}
